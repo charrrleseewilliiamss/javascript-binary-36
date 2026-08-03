@@ -1,2 +1,4 @@
-# javascript-binary-36
+# Javascript Binary 36
+
 Binary to decimal integer translator functions in JavaScript.
+
